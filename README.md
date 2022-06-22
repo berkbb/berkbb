@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkbb
 - 👀 I’m interested in Flutter and .NET.
-[- 🌱 I’m currently learning SwiftUI.](url)
+- 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on Flutter.
 - 📫 How to reach me berkbaba_dev@outlook.com
 
