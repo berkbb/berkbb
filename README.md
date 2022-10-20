@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @berkbb
+- 👋 Hi, I’m Berk Vabadoğan.
 - 👀 I’m interested in Flutter and .NET.
-- 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on Flutter.
+-  Currenntly "General Manager" of Babadogan Tech and Edu.
 - 📫 How to reach me berkbaba_dev@outlook.com
 
 <!---
