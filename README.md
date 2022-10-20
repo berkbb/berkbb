@@ -7,9 +7,6 @@ Hi there, I'm <a href="https://berkbabadogan.net" target="_blank" rel="noreferre
 I'm a Software Engineer 💻 !
 </h2> 
 
-### 🤝 Connect with me:
-berkbaba_dev@outlook.com  
-
 ### 💼 Works on currently:
 
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
