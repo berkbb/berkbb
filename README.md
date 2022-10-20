@@ -12,16 +12,17 @@ berkbaba_dev@outlook.com
 
 ### 💼 Works on currently:
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.Net&color=764ABC)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
+![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.Net&color=764ABC)
+<br>
+<br>
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=FF9500)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Csharp&color=5F9EA0)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=006B3C)
+<br>
 <br>
 ![]()
 <br>
-![]()
-<br>
-
-
 ### 📈 GitHub Stats 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=berkbb)](https://github.com/berkbb)
