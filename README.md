@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/23173536/196979052-77cf1aac-372d-44e8-9be1-56e835bc7f76.png)
 
 <h3 align="center">
-Hi there, I'm <a href="https://berkbabadogan.net" target="_blank" rel="noreferrer">Berk</a> 👋
+Hi there, I'm <a href="https://berk.babadogan.net" target="_blank" rel="noreferrer">Berk</a> 👋
 </h3>
 <h2 align="center">
 I'm a Software Engineer 💻 !
