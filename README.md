@@ -1,17 +1,28 @@
 ![banner](https://user-images.githubusercontent.com/23173536/196979052-77cf1aac-372d-44e8-9be1-56e835bc7f76.png)
 
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td style="border: none;">
-<img src="https://cdn-icons-png.flaticon.com/512/2881/2881355.png" width="32" height="32" alt="" title="" class="img-small">
-</td>
-<td style="border: none;">
-<h2>Github Stats</h2>
-</td>
-</tr>
-</table>
+<h3 align="center">
+Hi there, I'm <a href="https://berkbabadogan.net" target="_blank" rel="noreferrer">Berk</a> 👋
+</h3>
+<h2 align="center">
+I'm a Software Engineer 💻 !
+</h2> 
+
+### 🤝 Connect with me:
+berkbaba_dev@outlook.com  
+
+### 💼 Works on currently:
+
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.Net&color=764ABC)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=FF9500)
+<br>
+![]()
+<br>
+![]()
+<br>
 
 
+### 📈 GitHub Stats 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=berkbb)](https://github.com/berkbb)
 
