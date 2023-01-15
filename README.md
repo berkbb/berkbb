@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/23173536/196979052-77cf1aac-372d-44e8-9be1-56e835bc7f76.png)
+
+![banner](https://user-images.githubusercontent.com/23173536/212548994-bdee83ed-178b-4b92-94f9-40e6b32c9b0f.png)
 
 <h3 align="center">
 Hi there, I'm <a href="https://berk.babadogan.net" target="_blank" rel="noreferrer">Berk</a> 👋
