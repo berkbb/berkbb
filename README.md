@@ -1,6 +1,7 @@
 
-![github_banner](https://github.com/berkbb/berkbb/assets/23173536/0affbd1a-e654-45a3-9e08-23f61b5694f9)
 
+
+![github_banner](https://github.com/berkbb/berkbb/assets/23173536/04d158bd-c6d9-4c29-a916-e65ce4ef29a3)
 
 
 <h3 align="center">
