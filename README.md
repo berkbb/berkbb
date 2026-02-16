@@ -17,10 +17,7 @@ I'm a Software Engineer 💻 !
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=5F9EA0)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=006B3C)
 
-### 📈 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkbb&show_icons=true&theme=transparent)](https://github.com/berkbb)
-
+### 📈 GitHub 
 [![GitHub Streak](https://streak-stats.demolab.com?user=berkbb&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkbb&layout=compact&theme=transparent)](https://github.com/berkbb)
+
