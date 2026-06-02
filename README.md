@@ -22,11 +22,11 @@
 <div align="center">
   <h3>What I'm focused on</h3>
 
-  <img src="https://img.shields.io/badge/Flutter-61DAFB?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-2DD4BF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Swift-F97316?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/C%23-0F766E?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dart-2563EB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
 
 ## About Me
@@ -48,30 +48,36 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 
 ## GitHub Widgets
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=berkbb&show_icons=true&count_private=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbb&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-    height="170"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=berkbb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=2DD4BF&text_color=E5E7EB&icon_color=2DD4BF"
+        alt="GitHub Stats"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbb&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=2DD4BF&text_color=E5E7EB"
+        alt="Top Languages"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=berkbb&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=berkbb&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=F97316&currStreakLabel=2DD4BF"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=berkbb&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophy"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkbb&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
