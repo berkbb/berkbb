@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://berk.babadogan.net" target="_blank" rel="noreferrer">Portfolio</a>
   ·
-  <a href="https://babadogan.net" target="_blank" rel="noreferrer">Main Site</a>
+  <a href="https://babadogan.net" target="_blank" rel="noreferrer">Company Site</a>
   ·
   <a href="https://github.com/berkbb" target="_blank" rel="noreferrer">GitHub</a>
 </p>
@@ -75,7 +75,7 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 ## Connect
 
 - Website: [berk.babadogan.net](https://berk.babadogan.net)
-- Main site: [babadogan.net](https://babadogan.net)
+- Company site: [babadogan.net](https://babadogan.net)
 - GitHub: [@berkbb](https://github.com/berkbb)
 
 ---
