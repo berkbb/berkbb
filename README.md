@@ -48,24 +48,7 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 
 ## GitHub Widgets
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=berkbb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=2DD4BF&text_color=E5E7EB&icon_color=2DD4BF"
-        alt="GitHub Stats"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbb&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=2DD4BF&text_color=E5E7EB"
-        alt="Top Languages"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
   <img
