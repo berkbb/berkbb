@@ -36,15 +36,21 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 ## What I Like Building
 
 - Cross-platform mobile apps
-- Desktop and product experiences
+- Desktop apps and product experiences
 - APIs and backend services
 - Developer-friendly, maintainable codebases
 
 ## Tech Stack
 
 - Mobile: Flutter, Dart, Swift
+- Desktop: .NET, Flutter, Swift
 - Backend: .NET, C#
 - Product work: UI polish, app architecture, and performance-minded implementation
+
+## Profiles
+
+- NuGet: [berkbaba](https://www.nuget.org/profiles/berkbaba)
+- pub.dev: [berk.babadogan.net](https://pub.dev/publishers/berk.babadogan.net/packages)
 
 ## GitHub Widgets
 
