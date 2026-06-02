@@ -1,6 +1,14 @@
-![github_banner](https://github.com/berkbb/berkbb/assets/23173536/04d158bd-c6d9-4c29-a916-e65ce4ef29a3)
+<p align="center">
+  <img
+    src="https://github.com/berkbb/berkbb/assets/23173536/04d158bd-c6d9-4c29-a916-e65ce4ef29a3"
+    alt="Berk banner"
+    width="100%"
+  />
+</p>
 
-<h1 align="center">Hi there, I'm <a href="https://berk.babadogan.net" target="_blank" rel="noreferrer">Berk</a> 👋</h1>
+<h1 align="center">
+  Hi there, I'm <a href="https://berk.babadogan.net" target="_blank" rel="noreferrer">Berk</a> 👋
+</h1>
 <p align="center">
   <strong>Software Engineer</strong> focused on building practical, polished, and maintainable products.
 </p>
@@ -12,15 +20,13 @@
 </p>
 
 <div align="center">
+  <h3>What I'm focused on</h3>
 
-<h3>What I'm focused on</h3>
-
-<img src="https://img.shields.io/badge/Flutter-61DAFB?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
+  <img src="https://img.shields.io/badge/Flutter-61DAFB?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
 
 ## About Me
@@ -40,12 +46,33 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 - Backend: .NET, C#
 - Product work: UI polish, app architecture, and performance-minded implementation
 
-## Current GitHub Activity
+## GitHub Widgets
 
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
-    <img src="https://streak-stats.demolab.com?user=berkbb&theme=transparent" alt="GitHub Streak" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=berkbb&show_icons=true&count_private=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbb&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=berkbb&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=berkbb&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophy"
+  />
 </p>
 
 ## Connect
@@ -55,6 +82,4 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 
 ---
 
-<p align="center">
-  Thanks for stopping by.
-</p>
+<p align="center">Thanks for stopping by.</p>
