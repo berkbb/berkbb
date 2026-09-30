@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Swift-F97316?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Dart-2563EB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=dart&logoColor=white" alt="Kotlin" />
 </div>
 
 ## About Me
@@ -44,8 +45,8 @@ I enjoy turning ideas into reliable software with a strong focus on user experie
 
 ## Tech Stack
 
-- Mobile: Flutter, Dart, Swift
-- Desktop: .NET, Flutter, Swift
+- Mobile: Flutter, Dart, Swift, Kotlin
+- Desktop: .NET, Flutter, Swift, Kotlin
 - Backend: .NET, C#
 - Product work: UI polish, app architecture, and performance-minded implementation
 
